@@ -1,2 +1,2 @@
 # raspberri_beret
-Apps and Tools for Planning and Disaply
+Apps and Tools for Planning and Display
